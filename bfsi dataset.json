@@ -1,0 +1,252 @@
+[
+  {
+    "instruction": "What is my loan eligibility for a home loan?",
+    "input": "Monthly income: ₹75,000, existing loans: ₹15,000, credit score: 750",
+    "output": "Based on your monthly income of ₹75,000 and existing obligations of ₹15,000, your estimated loan eligibility ranges from ₹35-45 Lakhs for a home loan. Your credit score of 750 qualifies you for preferential interest rates. Please note that final eligibility depends on bank policies and property valuation. Would you like to calculate exact EMI for a specific loan amount?"
+  },
+  {
+    "instruction": "Check my home loan application status",
+    "input": "Application ID: HL2024001, PAN: ABCDE1234F",
+    "output": "Your home loan application HL2024001 is currently under processing. Initial verification is complete and the document verification team is reviewing your submitted documents. The estimated processing time is 3-5 business days. You will receive an SMS update once approved. For urgent queries, please contact your relationship manager."
+  },
+  {
+    "instruction": "Calculate EMI for a car loan",
+    "input": "Loan amount: ₹8,00,000, Tenure: 5 years, Interest rate: 8.5%",
+    "output": "For your car loan of ₹8,00,000 at 8.5% interest for 5 years (60 months), your monthly EMI would be approximately ₹16,415. The total interest payable would be ₹1,84,900 and total repayment amount would be ₹9,84,900. Please note that this is an approximate calculation. Actual EMI may vary based on processing fees and final terms."
+  },
+  {
+    "instruction": "What documents are needed for a personal loan?",
+    "input": "",
+    "output": "For a personal loan application, you typically need: 1) Identity proof (PAN Card, Aadhaar, Passport), 2) Address proof (Aadhaar, Utility bills), 3) Income proof (Salary slips for last 3 months, Bank statements for last 6 months, Form 16), 4) Employment proof (Employment letter, Visiting card). Self-employed individuals need business registration proof, IT returns for 2 years, and business bank statements. Please carry original documents for verification along with self-attested copies."
+  },
+  {
+    "instruction": "Explain current fixed deposit interest rates",
+    "input": "",
+    "output": "Our current fixed deposit interest rates (effective April 2024): For general citizens: 7-30 days: 3.00%, 31-90 days: 4.00%, 91-180 days: 5.00%, 181 days-1 year: 6.00%, 1-2 years: 6.75%, 2-3 years: 7.00%, 3-5 years: 7.25%, 5+ years: 7.00%. Senior citizens get an additional 0.50% on all tenures. Tax-saver FDs (5-year lock-in) offer 7.10% for general and 7.60% for senior citizens. Rates are subject to change without notice."
+  },
+  {
+    "instruction": "How to check my credit card bill?",
+    "input": "Card last 4 digits: 4567",
+    "output": "Your credit card (ending 4567) current outstanding balance is ₹24,567.89. Minimum due amount is ₹2,500. Payment due date is 15th May 2024. You can view your detailed statement through NetBanking, Mobile App, or request statement by email. Please ensure payment is made before due date to avoid interest charges. Would you like to make a payment now or set up auto-pay?"
+  },
+  {
+    "instruction": "Explain penalty for late EMI payment",
+    "input": "",
+    "output": "Late EMI payment penalties: 1) Late payment fee: ₹500-₹1000 per month depending on loan type, 2) Additional interest: 2% per month on overdue amount (24% p.a.), 3) Credit score impact: 50-100 point reduction, 4) Negative credit report remark for 3+ months default. For home loans, late payment beyond 90 days may trigger NPA classification. We recommend setting up auto-debit or ECS mandate to avoid penalties. Contact us for one-time settlement options if facing financial difficulty."
+  },
+  {
+    "instruction": "What is the interest rate for education loan?",
+    "input": "Course: MBA, Loan amount: ₹20 Lakhs",
+    "output": "For MBA education loan of ₹20 Lakhs, our interest rates range from 9.50% to 11.25% p.a. (floating). Female students get 0.05% concession. Interest during moratorium (course period + 1 year) is simple interest, which can be serviced or accrued. Processing fee: ₹10,000 + GST. Margin money required: 5-15% depending on loan amount. No collateral required up to ₹7.5 Lakhs. Collateral required for amounts above ₹7.5 Lakhs. Would you like to check your eligibility?"
+  },
+  {
+    "instruction": "How to close my savings account?",
+    "input": "Account number: 12345678901",
+    "output": "To close your savings account (ending 901): 1) Ensure zero balance and no pending transactions/cheques, 2) Stop all auto-debit mandates, 3) Visit home branch with account closure form and passbook, 4) Submit unused cheque leaves, 5) Provide alternate account for any balance transfer. Account closure charges: ₹500 if closed within 1 year of opening, free after 1 year. Processing time: 7-10 working days. Would you like to schedule a branch visit?"
+  },
+  {
+    "instruction": "Compare home loan fixed vs floating rate",
+    "input": "",
+    "output": "Fixed vs Floating Rate Comparison: Fixed Rate: 1) Rate remains constant throughout tenure, 2) Higher initial rate (9.25-10.00%), 3) Protected from market fluctuations, 4) Suitable for rising interest rate scenarios, 5) Prepayment penalty usually applicable. Floating Rate: 1) Rate changes with MCLR/repo rate, 2) Lower initial rate (8.75-9.25%), 3) Benefits from rate cuts, 4) No prepayment penalty, 5) Transparent with rate reset every 3-6 months. 80% customers choose floating rates. Your choice depends on market outlook and risk appetite."
+  },
+  {
+    "instruction": "What is my mutual fund portfolio value?",
+    "input": "PAN: ABCDE1234F, Folio: 12345678",
+    "output": "Your mutual fund portfolio value as of today: Total investment: ₹5,50,000, Current value: ₹6,85,000, Absolute returns: 24.55%, XIRR: 15.2%. Scheme-wise breakup: 1) Large Cap Fund: ₹2,50,000 (current ₹3,15,000), 2) Mid Cap Fund: ₹1,50,000 (current ₹1,95,000), 3) ELSS Tax Saver: ₹1,50,000 (current ₹1,75,000). Top performers: Mid Cap Fund with 30% returns. Would you like detailed scheme-wise performance report?"
+  },
+  {
+    "instruction": "Process for credit card limit enhancement",
+    "input": "Current limit: ₹50,000, Income: ₹60,000/month",
+    "output": "For credit card limit enhancement from ₹50,000: You're eligible for increase up to ₹1,50,000 based on income. Required documents: 1) Latest 3 salary slips, 2) Form 16/ITR, 3) Bank statements (3 months). Process: Apply via NetBanking > Cards > Limit Enhancement, or visit branch, or call customer care. Processing time: 3-5 working days. Annual income requirement for ₹1,50,000 limit is ₹6 Lakhs+. Temporary limit increase available for special purchases. Would you like to apply now?"
+  },
+  {
+    "instruction": "Explain NRE vs NRO account differences",
+    "input": "",
+    "output": "NRE (Non-Resident External) vs NRO (Non-Resident Ordinary) Account: NRE: 1) Hold foreign earnings in INR, 2) Freely repatriable (funds and interest), 3) Interest income tax-free in India, 4) Joint with NRI only, 5) Better for active foreign income. NRO: 1) Hold Indian earnings in INR, 2) Repatriation limited to $1M/year with TDS, 3) Interest taxable (30% + surcharge), 4) Joint with NRI/Indian resident, 5) Better for rental income/dividends from India. Both accounts offer similar interest rates (NRE: 3-7%, NRO: 3.5-7.5% based on tenure). Choose based on your income source."
+  },
+  {
+    "instruction": "How to apply for loan against property?",
+    "input": "Property value: ₹50 Lakhs, Income: ₹15 Lakhs/year",
+    "output": "For Loan Against Property (LAP): You're eligible for up to 60% of property value (₹30 Lakhs) based on ₹15 Lakhs annual income. Interest rate: 9.50-10.50% p.a. floating. Tenure: Up to 15 years. Required documents: Property papers (title deed, tax receipts), Income proof (IT returns 3 years, bank statements), Identity proof. Processing fee: 0.5-1% of loan amount. Valuation and legal check mandatory. Disbursement within 7-10 days of approval. Loan can be used for business expansion, education, medical emergencies, or debt consolidation. Would you like to proceed with application?"
+  },
+  {
+    "instruction": "Check PPF account balance",
+    "input": "PPF account: 12345678901",
+    "output": "Your PPF account (ending 901) current balance: ₹4,56,789. Current financial year contributions: ₹75,000 (eligible for 80C deduction). Maturity date: 01-Apr-2035. Interest rate (current quarter): 7.1% p.a. (tax-free). Last transaction: Deposit of ₹10,000 on 10-Apr-2024. You can extend PPF in blocks of 5 years after maturity with or without further contributions. Maximum annual investment limit: ₹1.5 Lakhs. Would you like to know about partial withdrawal rules or loan against PPF?"
+  },
+  {
+    "instruction": "What is the processing time for international fund transfer?",
+    "input": "Amount: $5,000, Country: USA",
+    "output": "International fund transfer of $5,000 to USA: Processing time: 2-3 business days via SWIFT. Transaction charges: ₹1,000 + GST + correspondent bank charges. Exchange rate: Our forex rate + 0.5% markup. Required documents: Form A2, PAN card copy, Purpose code declaration. Track your transaction via UTR number provided. Priority processing available at additional charges (1-day delivery). FEMA limit: Up to $250,000 per financial year without RBI approval. Would you like to initiate the transfer?"
+  },
+  {
+    "instruction": "Explain tax benefits on home loan",
+    "input": "",
+    "output": "Home Loan Tax Benefits: 1) Section 24(b): Interest deduction up to ₹2 Lakhs/year for self-occupied property (no limit for rented property), 2) Section 80C: Principal repayment up to ₹1.5 Lakhs/year, 3) Section 80EEA: Additional interest deduction up to ₹1.5 Lakhs for first-time home buyers (loan sanctioned in FY19-20 to FY21-22), 4) Stamp duty registration: Deduction under Section 80C, 5) Joint loan benefits: Each co-borrower can claim individually. Pre-construction interest: Deductible in 5 equal installments post-possession. Keep all interest certificates and repayment proofs for ITR filing."
+  },
+  {
+    "instruction": "How to report lost debit card?",
+    "input": "Card last 4 digits: 8901",
+    "output": "To report lost debit card (ending 8901): 1) Immediately block via NetBanking/Mobile App > Debit Card > Block, 2) Call 24x7 helpline: 1800-XXX-XXXX, 3) SMS 'BLOCK last4digits' to 56767, 4) Visit nearest branch. Zero liability protection if reported within 24 hours. Card replacement: ₹100 + GST, delivered in 5-7 business days. Emergency card available at select branches within 24 hours (charges apply). Monitor transactions for any unauthorized usage. Would you like temporary block or permanent replacement?"
+  },
+  {
+    "instruction": "What are the charges for savings account?",
+    "input": "Account type: Basic Savings",
+    "output": "Basic Savings Account Charges: Monthly average balance: ₹0 (no minimum balance requirement). Transaction limits: 4 free ATM withdrawals/month, thereafter ₹20/withdrawal + GST. Debit card annual fee: ₹150 + GST (first year free). Online transfers (IMPS/NEFT/RTGS): Free. Cheque book issuance: Free for first 50 leaves/year, then ₹2/leaf + GST. Statement charges: Free for e-statement, ₹50/month for physical statement. SMS alerts: ₹15/month + GST. Overdraft facility available at 12% p.a. Would you like to upgrade to premium account for higher limits?"
+  },
+  {
+    "instruction": "Check gold loan eligibility",
+    "input": "Gold weight: 20 grams, Purity: 22K",
+    "output": "For 20 grams of 22K gold (92% purity): Loan eligibility up to ₹7,92,000 (₹3,600 per gram rate). Loan-to-Value ratio: Up to 75% of gold value. Interest rate: 7.50-9.50% p.a. reducing. Processing fee: 0.5% of loan amount. Tenure: 3-12 months, renewable. Required: Original gold, identity proof, address proof. Instant processing at any branch with in-house valuation. Safe custody provided. Partial release option available. No prepayment penalty. EMI options available for longer tenure. Would you like to visit nearest branch for valuation?"
+  },
+  {
+    "instruction": "How to update mobile number in bank records?",
+    "input": "Account: 12345678901, New mobile: 9876543210",
+    "output": "To update mobile number from old to 9876543210: Option 1) NetBanking: Login > Profile > Update Mobile Number > OTP verification, Option 2) Branch visit: Submit KYC form with self-attested Aadhaar copy, Option 3) ATM: Insert card > Mobile Registration > Enter new number. Processing time: Instant for online, 24 hours for branch. All transaction alerts will start on new number post-update. For joint accounts, all holders need to update separately. Would you like assistance with online update?"
+  },
+  {
+    "instruction": "Explain different types of fixed deposits",
+    "input": "",
+    "output": "Fixed Deposit Types: 1) Cumulative FD: Interest compounded and paid at maturity, higher returns, 2) Non-Cumulative FD: Interest paid monthly/quarterly/half-yearly, regular income, 3) Tax Saver FD: 5-year lock-in, tax deduction under 80C up to ₹1.5 Lakhs, 4) Senior Citizen FD: Higher rates (0.50% extra), 5) Flexi FD: Linked to savings account, sweep-in facility, 6) Corporate FD: Higher rates but unsecured, 7) NRE/NRO FD: For NRIs, repatriation benefits. Minimum deposit: ₹1,000. Premature withdrawal allowed with penalty (0.5-1%). Deposit insurance cover: Up to ₹5 Lakhs per bank. Choose based on income needs and tax planning."
+  },
+  {
+    "instruction": "What is the procedure for loan foreclosure?",
+    "input": "Loan type: Personal, Outstanding: ₹2,50,000",
+    "output": "Personal Loan Foreclosure Procedure: 1) Check foreclosure charges: 0-4% of outstanding amount (varies by bank), 2) Request foreclosure statement with NOC charges, 3) Arrange funds (check foreclosure amount + charges), 4) Make payment via NEFT/RTGS/branch visit, 5) Collect NOC, original documents, and No Dues Certificate within 7-10 days. Current foreclosure charges: 3% of outstanding for personal loans (waived after 12 months). Foreclosure saves future interest. Processing time: 2-3 days. Tax implication: No TDS on foreclosure. Would you like exact foreclosure amount calculation?"
+  },
+  {
+    "instruction": "How to check if PAN is linked to Aadhaar?",
+    "input": "PAN: ABCDE1234F, Aadhaar: XXXX-XXXX-1234",
+    "output": "To check PAN-Aadhaar linking status: 1) Visit income tax e-filing portal, 2) Go to 'Link Aadhaar Status' under Quick Links, 3) Enter PAN and Aadhaar, 4) View status. As per your details, PAN ABCDE1234F is linked to Aadhaar ending 1234. Linking date: 15-Mar-2023. If not linked, you can link online with OTP verification or physical form at NSDL. Deadline extended indefinitely with ₹1,000 late fee. Linking mandatory for ITR filing and TDS credit. Would you like help with e-verification process?"
+  },
+  {
+    "instruction": "Explain capital gains tax on mutual funds",
+    "input": "",
+    "output": "Mutual Fund Capital Gains Tax (as per current rules): Equity Funds (>65% equity): LTCG (>1 year): 10% over ₹1 Lakh, STCG (<1 year): 15%. Debt Funds: LTCG (>3 years): 20% with indexation, STCG (<3 years): as per income slab. Hybrid Funds: Tax based on equity exposure. Indexation benefit reduces tax for long-term debt funds by adjusting for inflation. Grandfathering benefit for equity funds as on 31-Jan-2018. Dividends now taxable in hands of investors as per slab. Tax harvesting can optimize returns. Consult CA for planning."
+  },
+  {
+    "instruction": "How to apply for e-passbook?",
+    "input": "",
+    "output": "E-Passbook Access Methods: 1) NetBanking: Login > Accounts > View Passbook > Download PDF/Excel, 2) Mobile App: Dashboard > E-Passbook > Select account > View/Download, 3) ATM: Insert card > Passbook Printing > Enter PIN > Get mini statement, 4) Email: Request e-statement to registered email. Features: Password protected PDF, digital signature, transaction codes for verification. Available for last 10 years transactions. Charges: Free for e-passbook. SMS alerts also available for transactions. Would you like to register for monthly e-statement by email?"
+  },
+  {
+    "instruction": "What are the charges for international debit card usage?",
+    "input": "Country: UAE, Transaction amount: AED 1,000",
+    "output": "International Debit Card Charges for UAE transaction (AED 1,000): Forex markup: 3.5% + GST, ATM withdrawal charge: ₹125 + GST per transaction, POS transaction: Free (exchange rate + markup), Dynamic currency conversion: Avoid (additional 2-4%). Total charges approx: ₹22,500 (AED 1,000 * ₹22.5 exchange rate) + markup ~₹787 + GST. Daily limit: ₹1,00,000 for POS, ₹50,000 for ATM. Inform bank before international travel to avoid block. Consider Forex card for lower charges (2% markup). Enable international usage via NetBanking > Debit Card > International Usage > Enable."
+  },
+  {
+    "instruction": "Check eligibility for overdraft against salary",
+    "input": "Salary: ₹60,000/month, Employer: ABC Corp",
+    "output": "Based on ₹60,000 monthly salary at ABC Corp (Category A employer), you're eligible for Overdraft up to ₹3,00,000 (5x salary). Interest rate: 10.50% p.a. on used amount. Processing fee: Nil. Tenure: 12 months, renewable. Features: Interest on utilized amount only, no EMI, withdraw anytime, repay anytime, minimum 5% of outstanding monthly interest service. Documents: Latest salary slip, last 3 months bank statement, identity proof. Approval within 24 hours through salary account. Would you like to apply?"
+  },
+  {
+    "instruction": "How to register for mobile banking?",
+    "input": "Mobile: 9876543210, Account: 12345678901",
+    "output": "Mobile Banking Registration Process: 1) Download 'BankMobile' app from Play Store/App Store, 2) Select 'New User Registration', 3) Enter account number (12345678901) and registered mobile (9876543210), 4) Verify with OTP sent to your mobile, 5) Set MPIN/login credentials, 6) Link accounts. Activation time: Instant. Features: Fund transfer, bill payments, card controls, service requests, passbook view. Available 24x7. Secure with fingerprint/face ID. Transaction limit: ₹5,00,000/day. Would you like step-by-step guidance?"
+  },
+  {
+    "instruction": "Explain TDS on fixed deposit interest",
+    "input": "FD amount: ₹5 Lakhs, Tenure: 1 year, Rate: 7%",
+    "output": "TDS on FD Interest: For ₹5 Lakhs FD at 7% p.a., annual interest: ₹35,000. TDS threshold: Interest > ₹40,000/year (₹50,000 for senior citizens) attracts 10% TDS. Since your interest is ₹35,000 (<₹40,000), no TDS will be deducted. Submit Form 15G/15H if income below taxable limit to avoid TDS even if interest exceeds threshold. TDS rate for non-PAN cases: 20%. TDS credit reflected in Form 26AS. Interest from all branches/FDs aggregated for TDS calculation. Would you like to submit Form 15G to avoid future TDS?"
+  },
+  {
+    "instruction": "How to stop cheque payment?",
+    "input": "Cheque number: 123456, Amount: ₹50,000",
+    "output": "Stop Payment Request for Cheque 123456: Options: 1) NetBanking: Login > Service Requests > Cheque Book > Stop Payment > Enter cheque number, 2) Mobile App: Requests > Stop Cheque, 3) Branch: Visit with passbook. Charges: ₹50 per cheque via online, ₹100 via branch. Stop valid for 6 months, renewable. Confirmation given instantly online, 24 hours branch. If cheque already presented, stop may not be possible. Ensure sufficient funds before cheque issue to avoid dishonor. Post-dated cheques can be stopped before presentation. Would you like to process online?"
+  },
+  {
+    "instruction": "What is the minimum balance for savings account?",
+    "input": "Account type: Prime Savings",
+    "output": "Prime Savings Account Monthly Average Balance (MAB) requirement: Metro cities: ₹10,000, Urban: ₹5,000, Semi-Urban: ₹2,500, Rural: ₹1,000. Non-maintenance charges: Metro: ₹500 + GST, Urban: ₹300 + GST, Semi-Urban: ₹150 + GST, Rural: ₹100 + GST. MAB calculated as sum of daily closing balances divided by days in month. SMS alerts when balance falls below 50% of requirement. Zero balance option available for salary accounts, senior citizens, and basic savings accounts. Would you like to check your current MAB status?"
+  },
+  {
+    "instruction": "Explain credit card reward points",
+    "input": "Card type: Premium Rewards",
+    "output": "Premium Rewards Credit Card Benefits: Earning rate: 4 reward points per ₹100 spent (2X on dining, travel, grocery). Joining bonus: 2,000 points on first transaction. Redemption options: 1) Statement credit: 1 point = ₹0.25, 2) Flight bookings: 1 point = ₹0.35, 3) Hotel stays: 1 point = ₹0.40, 4) Merchandise: 1 point = ₹0.20, 5) Gift vouchers: 1 point = ₹0.30. Points validity: 2 years. Milestone benefits: 5,000 bonus points on ₹3 Lakhs annual spends. Fuel surcharge waiver: 1% surcharge waived (min 500 points). Maximum earning: 10,000 points/month. Points can be transferred to partner airlines/hotels. Would you like to check your current points balance?"
+  },
+  {
+    "instruction": "How to transfer funds to another bank?",
+    "input": "Amount: ₹25,000, Beneficiary: John Doe, Account: 1234567890, IFSC: HDFC0001234",
+    "output": "Fund Transfer to HDFC Bank: Options available: 1) NEFT (National Electronic Funds Transfer): Processing time: Half-hourly batches, Charges: ₹2-₹25, Settlement: 30 min-2 hours, 2) RTGS (Real Time Gross Settlement): Min ₹2 Lakhs, Max no limit, Charges: ₹25-₹50, Instant transfer, 3) IMPS (Immediate Payment Service): 24x7, Instant, Charges: ₹5-₹15. For your ₹25,000 transfer, recommended: NEFT (charges ₹5) or IMPS (charges ₹6). Add beneficiary first (4 hours cooling period). Transaction limit: ₹5 Lakhs/day via NetBanking. Would you like to initiate NEFT transfer now?"
+  },
+  {
+    "instruction": "What is the lock-in period for tax-saving FD?",
+    "input": "",
+    "output": "Tax Saver Fixed Deposit Lock-in Period: 5 years mandatory lock-in from date of deposit. Premature withdrawal not permitted. Loan against deposit not allowed. Nomination mandatory. Maximum investment: ₹1.5 Lakhs per financial year for 80C deduction. Joint holding allowed but only first holder gets tax benefit. Interest rate: Same as regular FD rates (currently 7.0-7.5% p.a.) with quarterly compounding. TDS applicable on interest >₹40,000/year (₹50,000 for senior citizens). Auto-renewal not available at maturity. Maturity proceeds credited to savings account. Senior citizens get 0.50% extra. Compare with ELSS mutual funds for better returns with 3-year lock-in."
+  },
+  {
+    "instruction": "Check status of insurance claim",
+    "input": "Claim number: CLM2024001, Policy: HL123456",
+    "output": "Health Insurance Claim CLM2024001 status: Current stage: Document verification completed. Claim amount: ₹85,000 approved. Settlement in progress. Estimated disbursement: 3-5 working days. Claim type: Cashless (Network hospital) processed at XYZ Hospital. If any additional documents needed, you'll receive SMS/email. Track online: Portal > My Claims > Enter claim number. Customer care: 1800-XXX-XXXX for urgent queries. Claim settlement ratio: 96% for this policy. Would you like SMS updates on this claim?"
+  },
+  {
+    "instruction": "How to calculate PPF maturity amount?",
+    "input": "Yearly investment: ₹1.5 Lakhs, Tenure: 15 years",
+    "output": "PPF Maturity Calculation: For ₹1.5 Lakhs annual investment for 15 years at current 7.1% interest rate: Total invested: ₹22.5 Lakhs, Estimated maturity: ₹40,12,500 (approx). Calculation based on yearly compounding. Interest rate revised quarterly by government. Extension after 15 years: In blocks of 5 years with/without contributions. Extended period interest rate same as prevailing rate. Partial withdrawal allowed from 7th financial year (max 50% of balance at end of 4th preceding year). Loan against PPF allowed from 3rd to 6th year (max 25% of balance). Interest completely tax-free under Section 10."
+  },
+  {
+    "instruction": "Explain demat account charges",
+    "input": "",
+    "output": "Demat Account Charges: Account opening fee: ₹0-500 (waived for online). Annual maintenance charges (AMC): ₹300-750 + GST depending on holdings. Transaction charges: Purchase: 0.03% of value, Sale: 0.03% of value. CDSL/NSDL charges: ₹5-10 per transaction. Stamp duty: 0.015% on buy side. Goods & Services Tax: 18% on brokerage and transaction charges. Pledge creation charges: ₹25-50 per ISIN. Corporate action processing: Free. Off-market transfer: ₹25-50 per certificate. Delivery instruction slip booklet: Free first book, then nominal. Demat conversion (physical to demat): ₹50-100 per certificate + courier. Compare with zero-AMC offers but higher transaction charges. Would you like to open demat account?"
+  },
+  {
+    "instruction": "How to register for e-filing income tax?",
+    "input": "PAN: ABCDE1234F, Mobile: 9876543210",
+    "output": "Income Tax E-filing Registration: Step-by-step process: 1) Visit incometax.gov.in, 2) Click 'Register' under new user, 3) Select user type (Individual), 4) Enter PAN (ABCDE1234F), 5) Validate with OTP on mobile 9876543210, 6) Fill basic details (name, DOB), 7) Create login credentials, 8) Verify through Aadhaar OTP/NetBanking/Demat account/EVC. Post-registration: Login with credentials, complete profile, link Aadhaar, pre-validate bank accounts. ITR filing available for AY 2024-25. E-verification mandatory within 120 days. Would you like help with verification process?"
+  },
+  {
+    "instruction": "What are the benefits of senior citizen savings scheme?",
+    "input": "",
+    "output": "Senior Citizen Savings Scheme (SCSS) Benefits: Eligibility: Age 60+ (55+ for VRS with 15 days deposit), Maximum deposit: ₹30 Lakhs (joint account allowed), Interest rate: 8.2% p.a. (current, payable quarterly), Tenure: 5 years (extendable by 3 years), Tax benefit: 80C up to ₹1.5 Lakhs, TDS: 10% if interest >₹50,000/year, Maturity amount: Taxable, Premature closure: Allowed after 1 year with 1.5% penalty, after 2 years 1% penalty, Nomination mandatory, Joint holder only spouse, Interest credited quarterly to savings account, Can be opened at post office or authorized banks, Guaranteed returns, sovereign backing. Compare with Pradhan Mantri Vaya Vandana Yojana for additional pension option."
+  },
+  {
+    "instruction": "Check home loan outstanding balance",
+    "input": "Loan account: HL2024001, Customer ID: 12345678",
+    "output": "Home Loan HL2024001 outstanding details as of today: Principal outstanding: ₹34,56,789, Total overdue: ₹0 (all EMIs paid on time), Next EMI due: 10-May-2024 (₹32,567), Interest paid this FY: ₹1,23,456, Principal repaid this FY: ₹67,890, Total tenure: 20 years (remaining: 18 years 4 months), Interest rate: 8.75% floating linked to Repo Rate, Prepayment allowed: Part/full with zero charges for floating rate loans, Tax benefit claimed: ₹1,23,456 (interest), ₹67,890 (principal) for current FY. Request NOC for full settlement anytime. Would you like to prepay partial amount?"
+  },
+  {
+    "instruction": "How to surrender an insurance policy?",
+    "input": "Policy: LIC Jeevan Anand 12345678, Paid premiums: 5 years",
+    "output": "LIC Jeevan Anand Policy Surrender: Minimum paid-up value after 2-3 years premium paid. For your policy (5 years paid), surrender value: Guaranteed Surrender Value (GSV) + Special Surrender Value (SSV), whichever higher. GSV factor for 5th year: 50% of premiums paid (excluding taxes/rider premiums). SSV may be higher based on accumulated bonuses. Surrender process: 1) Fill Form 5074 (Surrender Request), 2) Submit at branch with original policy bond, 3) Provide bank proof for credit, 4) KYC documents. Processing time: 7-10 days. Tax implication: Surplus amount taxable if premium >10% of sum assured. Consider loan against policy before surrendering. Would you like surrender value calculation?"
+  },
+  {
+    "instruction": "Explain CIBIL score calculation",
+    "input": "",
+    "output": "CIBIL Score Calculation (300-900): Components: 1) Payment History (35%): Timely EMI/credit card payments, 2) Credit Utilization (30%): Balance-to-limit ratio (<30% ideal), 3) Credit Mix & Length (15%): Variety of secured/unsecured loans, oldest account age, 4) New Credit Inquiries (10%): Multiple applications impact negatively, 5) Available Credit (10%): Total credit limit. Score >750 considered excellent for loan approvals. Negative factors: Delays >30 days reported, settled accounts, written-off accounts, multiple inquiries in short period. Free annual report at cibil.com. Rebuilding tips: Pay EMIs on time, maintain low utilization, avoid multiple applications. Would you like to check your score?"
+  },
+  {
+    "instruction": "How to calculate gratuity?",
+    "input": "Last drawn salary: ₹75,000, Service: 12 years",
+    "output": "Gratuity Calculation (for employees covered under Gratuity Act): Formula = (15/26) × Last drawn salary × Years of service. For ₹75,000 salary, 12 years: (15/26) × 75,000 × 12 = ₹5,19,230.77. Maximum tax-free limit: ₹20 Lakhs. Eligible after 5 years continuous service. Salary includes basic + DA. Part of year >6 months counted as full year. Payment within 30 days of separation. Interest payable for delay. For non-covered employees: Formula = (15/30) × Average last 10 months salary × Years of service. Nomination facility available. Ex gratia if employer has policy beyond legal requirement. Would you like help with gratuity calculator?"
+  },
+  {
+    "instruction": "What is the process for will registration?",
+    "input": "",
+    "output": "Will Registration Process: Registration optional but recommended. Steps: 1) Draft will clearly stating assets, beneficiaries, executor, 2) Print on non-judicial stamp paper (₹100-500 depending on state), 3) Sign in presence of two witnesses (both sign), 4) Visit Sub-Registrar office with original documents, 5) Pay registration fee (approx ₹1,000), 6) Provide thumb impression and photograph. Registered will kept in safe custody, certified copy given. Benefits of registration: Cannot be lost/destroyed, reduces litigation, court accepts as evidence. Unregistered will valid but may be challenged. Witnesses should not be beneficiaries. Medical certificate for testator's sound mind advisable. Nomination in financial assets different from will. Update will after major life events. Consult lawyer for complex estates."
+  },
+  {
+    "instruction": "Check EPF balance",
+    "input": "UAN: 123456789012, Mobile: 9876543210",
+    "output": "EPF Balance for UAN 123456789012 as on 30-Apr-2024: Total balance: ₹4,56,789 (Employee share: ₹2,28,394, Employer share: ₹2,28,395). Last contribution month: March 2024 (₹5,000 employee, ₹1,834 employer EPS portion). Interest rate (FY 23-24): 8.25% p.a. Total service years: 8 years 4 months. Member ID: 12345 (linked to UAN). Check balance via: 1) UMANG App, 2) EPFO Portal, 3) SMS: 'EPFOHO UAN' to 7738299899, 4) Missed call to 011-22901406. Passbook download available online. KYC status: Aadhaar seeded, bank verified. Nomination registered. Would you like to transfer previous EPF account?"
+  },
+  {
+    "instruction": "Explain Sukanya Samriddhi Yojana benefits",
+    "input": "",
+    "output": "Sukanya Samriddhi Yojana (SSY) Benefits: For girl child below 10 years. Interest rate: 8.2% p.a. (current, compounded yearly). Maximum deposit: ₹1.5 Lakhs/year (minimum ₹250). Account tenure: 21 years from opening or marriage after 18 years. Partial withdrawal: 50% for higher education after 18th birthday. Premature closure: For marriage after 18 years or girl's death. Tax benefits: 80C deduction, interest tax-free, maturity tax-free. Account can be opened at post office or authorized banks. Required documents: Birth certificate, guardians' ID proof. Transferable across India. Loan not allowed. Joint operation not allowed (single guardian). Premature closure allowed in extreme cases (medical, death). One account per girl, maximum 2 accounts per guardian. Higher returns than PPF currently."
+  },
+  {
+    "instruction": "How to file insurance claim for car accident?",
+    "input": "Policy: CAR123456, Date of accident: 01-May-2024",
+    "output": "Car Insurance Claim Process for accident on 01-May-2024: 1) Ensure safety, call ambulance if needed, 2) Register FIR at nearest police station (for third-party injury/death), 3) Take photos of damage and scene, 4) Intimate insurer within 24 hours: Call 1800-XXX-XXXX, 5) Note claim number: Provided on intimation, 6) Visit network garage for cashless claim (list available on app), 7) Submit documents: Policy copy, RC, driving license, FIR copy, claim form, 8) Surveyor inspection arranged. Claim settlement: Cashless at garage, reimbursement if paid upfront. Deductible (voluntary/involuntary) applicable. No-claim bonus affected if claim filed. Processing time: 3-7 days. Track status online with claim number. Would you like cashless garage location?"
+  },
+  {
+    "instruction": "What is the difference between term plan and ULIP?",
+    "input": "",
+    "output": "Term Plan vs ULIP Comparison: Term Plan: Pure protection, No maturity benefit (death benefit only), Lower premium, No market exposure, Fixed sum assured, Riders available, Tax benefit under 80C and 10(10D), No surrender value, Best for financial dependents. ULIP: Investment + insurance, Maturity benefit linked to market returns, Higher premium, Market exposure (equity/debt funds), Variable returns based on fund performance, Partial withdrawal allowed, 5-year lock-in period, Fund switching allowed, Charges: premium allocation, fund management, mortality, Surrender value after lock-in. Choose term plan for protection, ULIP for long-term wealth creation with insurance. Compare TER, fund performance before ULIP investment. Consider ELSS for better returns with lower costs."
+  },
+  {
+    "instruction": "Check NPS balance",
+    "input": "PRAN: 123456789012, Mobile: 9876543210",
+    "output": "NPS Tier-I balance for PRAN 123456789012 as on 30-Apr-2024: Total corpus: ₹5,67,890 (Employee contribution: ₹3,40,734, Employer contribution: ₹2,27,156). Investment breakup: Equity (E) 50%: ₹2,83,945, Corporate Bonds (C) 30%: ₹1,70,367, Government Securities (G) 20%: ₹1,13,578. Current NAV: Equity fund: ₹45.67, Corporate bond fund: ₹23.45, G-sec fund: ₹12.34. Returns (since inception): XIRR 12.5%. Tier-II balance: ₹1,23,456 (optional). Last contribution: April 2024. Check via: 1) CRANS eNPS portal, 2) NSDL app, 3) SMS to 56070, 4) missed call to 022-40904000. PRAN card download available. Nomination registered. Would you like to change fund allocation?"
+  }
+]
